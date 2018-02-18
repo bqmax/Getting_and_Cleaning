@@ -1,6 +1,7 @@
 # Code Book for `tidydata.txt`
+This code book modifies and updates the available code book from [data set](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-## List of Measurements
+## List of measurements which were used for calculation of mean values
 - `TimeBodyAccelerometerMean-X`
 - `TimeBodyAccelerometerMean-Y` 
 - `TimeBodyAccelerometerMean-Z`
